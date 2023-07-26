@@ -1,2 +1,2 @@
 # Parallel_Programing
-NTHU 2023
+NTHU 2022
